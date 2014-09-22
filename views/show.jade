@@ -1,0 +1,35 @@
+doctype
+html
+  head
+    title Streak
+    meta(chatset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(rel='stylesheet', href='libs/pure/pure-min.css')
+  body
+    block content
+      table(class='pure-table pure-table-bordered')
+        thead
+          tr
+            th 
+              | sender
+            th
+              | receiver
+            th
+              | timeStamp
+            th
+              | subject
+            th
+              | message_id
+        tbody
+          - each item, i in result
+            tr
+              td
+                = item.sender
+              td
+                = item.receiver
+              td
+                = item.timestamp
+              td
+                = item.subject
+              td
+                = item.message_id

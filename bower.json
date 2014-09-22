@@ -1,0 +1,9 @@
+{
+	"name" : "streak",
+	"dependencies" : {
+		"bootstrap" : "latest",
+		"pure" : "latest",
+		"angular" : "latest",
+		"angular-route" : "latest"
+	}
+}

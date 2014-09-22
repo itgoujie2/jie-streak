@@ -1,0 +1,18 @@
+doctype
+html
+  head
+    title Streak
+    meta(chatset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(rel='stylesheet', href='libs/pure/pure-min.css')
+  body
+    div
+      form(class='pure-form', action='/upload', method='POST', enctype='multipart/form-data')
+        fieldset
+          legend Upload CSV file
+        input(type='file', name='csv')
+        button(class='btn', type='submit') Upload
+      form(class='pure-form', action='/search', method='GET')
+        input(type='text', name='company', placeholder='enter the company name')
+        button(class='btn', type='submit') Search
+    

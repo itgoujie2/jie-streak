@@ -1,0 +1,13 @@
+{
+	"name" : "steak",
+	"dependencies" : {
+		"express" : "latest",
+		"ya-csv" : "latest",
+		"body-parser" : "latest",
+		"nconf" : "latest",
+		"multer" : "latest",
+		"connect-flash" : "latest",
+		"express-session" : "latest",
+		"jade" : "latest"
+	}
+}
