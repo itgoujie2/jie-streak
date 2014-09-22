@@ -9,5 +9,8 @@
 		"connect-flash" : "latest",
 		"express-session" : "latest",
 		"jade" : "latest"
-	}
+	},
+	"engines": {
+		"node": "latest"
+	},
 }
