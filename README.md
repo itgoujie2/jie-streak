@@ -14,7 +14,7 @@ What I'd like you to do is to generate and parse a sample dataset. Then come up 
 2) For each of those companies, which employees of company X talk to which employees of the other company?
 
 **Instructions**
-1) Go to [jie-streak.herokuapp.com](jie-streak.herokuapp.com), upload your csv file
+1) Go to [http://jie-streak.herokuapp.com](http://jie-streak.herokuapp.com), upload your csv file
 ![](http://www.clipular.com/c/4930085586993152.png?k=RyODZKOxqHMJpFDXtVd_3E3NXNQ)
 2) Type in the company you want to search, and click Search
 ![](http://www.clipular.com/c/5778886820364288.png?k=5hJBZBp11g1mE7hnfMI0tkQFESU)
