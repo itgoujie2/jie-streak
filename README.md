@@ -15,8 +15,8 @@ What I'd like you to do is to generate and parse a sample dataset. Then come up 
 
 **Instructions**
 1) Go to jie-streak.herokuapp.com, upload your csv file
-![](/http://www.clipular.com/c/4930085586993152.png?k=RyODZKOxqHMJpFDXtVd_3E3NXNQ)
+![](http://www.clipular.com/c/4930085586993152.png?k=RyODZKOxqHMJpFDXtVd_3E3NXNQ)
 2) Type in the company you want to search, and click Search
-![](/http://www.clipular.com/c/5778886820364288.png?k=5hJBZBp11g1mE7hnfMI0tkQFESU)
+![](http://www.clipular.com/c/5778886820364288.png?k=5hJBZBp11g1mE7hnfMI0tkQFESU)
 3) Result are shown on new page
-![](/http://www.clipular.com/c/4930085586993152.png?k=RyODZKOxqHMJpFDXtVd_3E3NXNQ)
+![](http://www.clipular.com/c/4930085586993152.png?k=RyODZKOxqHMJpFDXtVd_3E3NXNQ)
