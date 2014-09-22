@@ -6,7 +6,7 @@ var fs = require('fs');
 var multer = require('multer');
 var flash = require('connect-flash');
 // var session = require('express-session');
-var port = config.get('port');
+var port = process.env.PORT || config.get('port');
 
 app.set('view engine', 'jade');
 app.set('views', __dirname + '/views');
